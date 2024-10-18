@@ -1,1 +1,1 @@
-https://malasys.github.io/introduction
+https://malasys.github.io/intro
